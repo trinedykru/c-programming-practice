@@ -1,2 +1,2 @@
 # c-programming-practice
-*I made a MadLibs game for my 3rd Grader, using C programming language*
+*I made a Mad Libs game for my 3rd grader, called At the Arcade!*
